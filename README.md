@@ -3,7 +3,10 @@
 # Retail Management Website [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > Developed Using Flask Web framework
 
-<br>
+![GitHub stars](https://img.shields.io/github/stars/AniketCPatel/retailmanagement?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/AniketCPatel/retailmanagement?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AniketCPatel/retailmanagement?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/AniketCPatel/retailmanagement?color=%230000ff&style=flat-square)<br>
 The System needs to be able to handle primary functions that can be grouped into two set of activities.
 
 New account executive/New customer<br/>
